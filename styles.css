@@ -1,0 +1,30 @@
+body {
+    background-color: #aeddbe;
+}
+h1 {
+    color: green;
+    font-family: verdana;
+    font-size: 300%;
+}
+p  {
+    color: blue;
+    font-family: courier;
+    font-size: 160%;
+}
+ul {
+	color: blue;
+	font-family: courier;
+    font-size: 100%
+}
+ul {
+    background: #3399ff;
+    padding: 20px;
+}
+ul li {
+    background: #cce5ff;
+    margin: 5px;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
